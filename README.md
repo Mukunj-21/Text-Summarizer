@@ -51,7 +51,6 @@ Ensure you have Python installed (3.6 or higher). You also need `pip` for packag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vtandon1204/text-summarizer-project.git
    cd text-summarizer-project
 
 2. Create a virtual environment (optional but recommended):
@@ -88,7 +87,7 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/vtandon1204/text-summarizer-project/blob/main/LICENSE) - see the [LICENSE](https://github.com/vtandon1204/text-summarizer-project/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License] - see the [LICENSE] file for details.
 
 
 ## Acknowledgments
