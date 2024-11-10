@@ -51,6 +51,7 @@ Ensure you have Python installed (3.6 or higher). You also need `pip` for packag
 1. Clone the repository:
 
    ```bash
+   git clone https://github.com/Mukunj-21/Text-Summarizer
    cd text-summarizer-project
 
 2. Create a virtual environment (optional but recommended):
@@ -87,8 +88,7 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 ## License
 
-This project is licensed under the [MIT License] - see the [LICENSE] file for details.
-
+This project is licensed under the [MIT License](https://github.com/Mukunj-21/Text-Summarizer/blob/main/LICENSE) - see the [LICENSE](https://github.com/Mukunj-21/Text-Summarizer/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) for providing powerful NLP models.
